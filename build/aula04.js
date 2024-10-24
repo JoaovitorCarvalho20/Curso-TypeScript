@@ -1,0 +1,10 @@
+"use strict";
+let teste;
+let cursos = ['Angular', 'React', 'TypeScript', 'JavaScript'];
+let valores = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+cursos.push('Java');
+valores.push(11);
+teste = 2;
+console.log(cursos);
+console.log(valores);
+console.log(teste);
